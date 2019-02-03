@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+It's Marysia here, I've just started learning how to code. It's fun!
